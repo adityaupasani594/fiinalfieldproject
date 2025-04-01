@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "melodic-wonder-450615-v6",
+  "private_key_id": "6c48c39fe21722afe5a87620562275fc105502a9",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCwlhiRzQ4wxTvJ\nABBB6hdnaLLIIPDQqbVIle9cu+ZpBJ20AepdKfgmKvHZCaSV92Xb6+e6MIEASzDO\njrKgS2uD9A7Muynr3/miwgQrp/pXxUI3he50cdR97adlns6fPybIIHu8dD3jyO5z\nrc5+Upc1X2iBjYx/Osd4yq9yOrLPTGlDYYiQNrsnJdkw0GyqHo5a9HNt/LbJEk9e\nb+0as9I/7aesMIS/0sk/I9HJQ/RbUWzkHWHhEz17jEeme4RY4QR/iUrX/0aNHoJI\n1KdEu8/yeOYqhCS2Clu/KCZ0ClXDI+hnxCmwibKXg+LQfkXUXLW0L2wrT75pDzec\nLBcGis4zAgMBAAECggEASmCuMJtCIuCwcdUJA/ppqTC8PPdC92DD7rLYgyLRxeIf\n2rYD1QHcd5cXDue030W5LYyLqizL6SfCgv4v1rxtqMKfiTQ8UBGiwB8gSpMSKu33\nGhPbgEiBzBjRrUfal9CtsRWdiJ8dglgbt7W5iBOZhO2OwyKvztcfNY2JoH+A2TcM\n6ovigSH0yxVrlDLLd1M9vytLmNh58fchcK/oaYM1mzgwQpr6lVZqLiFklOLTzmVy\n+d5FfMcSd1uM5cfezd3H6eCP6gWuEu37tXhPtJPktOTwLaEWVpiw9yTCRukkVJlW\nNltjj+X/9S/2auMy1YGVffuPpRotVbPyC73DynZv4QKBgQD3KG3Ls8qeE4S7zdFY\n0TRYyrjZhj2OLSzyVtJ9Gp4jcRGirUofQg8P1PAc0/JF+c4n5c1oFK2mgvXa+G76\nb3HGqVmNtmWzwqbiRIr7d4cA1TZJSyqOGJljKqwxzvK6PM4QvFNPqOgfDcyfeNGg\niQH4kekkuPmIeiDMT4TqNQM/twKBgQC251gSp6FdnTw50wqnlNGHyHX2+l5GX91R\nrhb0PBKTL6BftO/+SXynFZb8501fIeGhEnspXUn1zZyUgjs8vGT8jP3T9V3ZC5ID\nU/hO+p2X8fQuhmG/8WYRnxPjUveGxZsTIzWN6k+O6JI+rdVl9v59eyWelENE4lgI\ns3KwP2ytZQKBgAwD6SKIAQeiR0eh/9Vjhjny0P2yKvfodlDpq53tV1a9vm+8IOhY\nG8dXQL0GCLciJ8WExHGU38RChZU5kpuWI1/XB8V94n/UrKw/TMpgyy1dMCBsCQuT\nYpGRl4FsYBxxrErf/OTYf0BTOWlfREGbp37gCQeB/o+F8GY+T2XbYecNAoGAWlY/\nIM+cmrEbWvAKdiTBrI/s+7RDNf0JQdt7SNwWzI2cZ0jltDG1mIzIS1cu1srUNwr6\nu75w1i/co1kDSwc91aMJh1PMK3RUhMJHhTKw/agqU4RZ6USghhmM6B1FVlJpOnWM\ncPCGpO3ntX+EQ91PasiVFxLherdUhc+j2LsqwSUCgYEAxFAQ8U8SklHd4CfjxSCt\ng2auGmoNSvzRIsjo/IO8ch23ApNuUqrmP6eZr5VCertHmH1OAHM2IqLH5ZN0MVBL\njxt5Mae3Gfrc6xmjmI4BFMR9lRjRKDSRQdpGSnS/oZKkReOW2yZK7KB5Z0ZcEmMN\ncmEjs6uLKrJeLAF5VAoOLJI=\n-----END PRIVATE KEY-----\n",
+  "client_email": "admin-861@melodic-wonder-450615-v6.iam.gserviceaccount.com",
+  "client_id": "118003757533019820059",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/admin-861%40melodic-wonder-450615-v6.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
